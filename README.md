@@ -1,5 +1,5 @@
 # luckyIchiba
-HTML practice 3 --Lucky Ichiba 神经兮兮的快乐购物网站
+HTML practice 2 --Lucky Ichiba 神经兮兮的快乐购物网站
 
 ## Overview
 JUST FOR FUN !!!
